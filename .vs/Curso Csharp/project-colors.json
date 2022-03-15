@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da1a9467-6c8c-411c-b35c-88482bb6e1b6": {
+      "ProjectGuid": "da1a9467-6c8c-411c-b35c-88482bb6e1b6",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "d2411e9e-da62-4bfb-a598-ea500a4067fe": {
+      "ProjectGuid": "d2411e9e-da62-4bfb-a598-ea500a4067fe",
+      "DisplayName": "ConvertendoDados",
+      "ColorIndex": 1
+    },
+    "91a61208-9ea6-48b7-a7ea-2461a3c1546e": {
+      "ProjectGuid": "91a61208-9ea6-48b7-a7ea-2461a3c1546e",
+      "DisplayName": "EntradaDeDados",
+      "ColorIndex": 2
+    },
+    "ead3546c-96a6-4b4c-9fca-fb882d2401f8": {
+      "ProjectGuid": "ead3546c-96a6-4b4c-9fca-fb882d2401f8",
+      "DisplayName": "Operadores",
+      "ColorIndex": 3
+    },
+    "87ddadb1-8cff-4532-b0eb-76923eeaa7b3": {
+      "ProjectGuid": "87ddadb1-8cff-4532-b0eb-76923eeaa7b3",
+      "DisplayName": "ClasseMath",
+      "ColorIndex": 4
+    },
+    "c5a60d83-a739-4fa2-8562-5b7aa1faaef5": {
+      "ProjectGuid": "c5a60d83-a739-4fa2-8562-5b7aa1faaef5",
+      "DisplayName": "Strings",
+      "ColorIndex": 5
+    },
+    "d399b8b5-ac7f-4ecf-aa15-d22c60312996": {
+      "ProjectGuid": "d399b8b5-ac7f-4ecf-aa15-d22c60312996",
+      "DisplayName": "Bolleans",
+      "ColorIndex": 6
+    },
+    "02801faf-1c52-4ce1-92a4-3118125f66f5": {
+      "ProjectGuid": "02801faf-1c52-4ce1-92a4-3118125f66f5",
+      "DisplayName": "CondicaoIfElse",
+      "ColorIndex": 7
+    },
+    "7e93e6e0-a7df-4426-8f11-696ee4ccb9f1": {
+      "ProjectGuid": "7e93e6e0-a7df-4426-8f11-696ee4ccb9f1",
+      "DisplayName": "Switch",
+      "ColorIndex": 8
+    },
+    "9a0e8f88-d7ab-4e6f-8fbc-9f1a917611cc": {
+      "ProjectGuid": "9a0e8f88-d7ab-4e6f-8fbc-9f1a917611cc",
+      "DisplayName": "DoWhile",
+      "ColorIndex": 9
+    },
+    "c9fbf7e7-9897-455e-8573-c7a6d9cd3965": {
+      "ProjectGuid": "c9fbf7e7-9897-455e-8573-c7a6d9cd3965",
+      "DisplayName": "CondicaoFor",
+      "ColorIndex": 10
+    },
+    "08c57fad-4e64-4b23-b3d0-b162ff4f71e5": {
+      "ProjectGuid": "08c57fad-4e64-4b23-b3d0-b162ff4f71e5",
+      "DisplayName": "Arrays",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}
